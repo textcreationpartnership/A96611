@@ -1,0 +1,319 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christenings make not Christians, or A briefe discourse concerning that name heathen, commonly given to the Indians. As also concerning that great point of their conversion. Published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96611</idno>
+            <idno type="STC">Wing W2761</idno>
+            <idno type="STC">Thomason E1189_8</idno>
+            <idno type="STC">ESTC R208283</idno>
+            <idno type="EEBO-CITATION">99867244</idno>
+            <idno type="PROQUEST">99867244</idno>
+            <idno type="VID">119549</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96611)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119549)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1189[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christenings make not Christians, or A briefe discourse concerning that name heathen, commonly given to the Indians. As also concerning that great point of their conversion. Published according to order.</title>
+                  <author>Williams, Roger, 1604?-1683.</author>
+               </titleStmt>
+               <extent>21, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iane Coe, for I.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 23th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>End of work signed: "Your unworthy country-man, Roger Williams".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conversion --  Christianity --  Early works to 1800.</term>
+               <term>Indians of North America --  Missions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119549:1" rendition="simple:additions"/>
+            <p>Chriſtenings make not CHRISTIANS, OR A Brieſe Diſcourſe concerning that name <hi>Heathen,</hi> commonly given to the INDIANS.</p>
+            <p>
+               <hi>As alſo concerning that great point of their CONVERSION.</hi>
+            </p>
+            <figure>
+               <figDesc>a bare-chested woman with headdress, bow and arrow, standing in the country, under a bright moon</figDesc>
+            </figure>
+            <p>
+               <hi>Publiſhed according to Order.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Iane Coe,</hi> for I. H. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:119549:2"/>
+            <pb n="1" facs="tcp:119549:2"/>
+            <head>
+               <hi>A Briefe Diſcourſe concerning that name HEATHEN Commonly given to the</hi> Indians.</head>
+            <head type="sub">As alſo concerning that great point of their converſion.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Shall firſt be humbly bold to inquire into the name <hi>Hea<g ref="char:EOLhyphen"/>then,</hi> which the Engliſh give them, &amp; the Dutch approve and practiſe in their name <hi>Heydenen,</hi> ſignifying Hea<g ref="char:EOLhyphen"/>then or Nations.</p>
+            <p>How oft have I heard both the Engliſh and Dutch (not onely the civill, but the moſt ded
+<pb n="2" facs="tcp:119549:3"/>bauched and profane) ſay, Theſe <hi>Heathen</hi> Dogges, better kill a thouſand of them then that we <hi>Chriſtians</hi> ſhould be indangered or troubled with them; Better they were all cut off, &amp; then we ſhall be no more troubled with them: They have ſpilt our <hi>Chriſtian</hi> bloud, the beſt way to make riddance of them, cut them all off, and ſo make way for Chriſtians.</p>
+            <p>I ſhall therefore humbly intreat my coun<g ref="char:EOLhyphen"/>try-men of all ſorts to conſider, that although men have uſed to apply this word <hi>Heathen</hi> to the Indians that go naked, and have not heard of that One-God, yet this word <hi>Heathen</hi> is moſt improperly, ſinfully, and unchriſtianly ſo uſed in this ſence. The word <hi>Heathen</hi> ſignifi<g ref="char:EOLhyphen"/>eth no more then <hi>Nations</hi> or <hi>Gentiles;</hi> ſo do our Tranſlations from the Hebrew <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and the Greeke <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in the old and New Te<g ref="char:EOLhyphen"/>ſtament promiſcuouſly render theſe words <hi>Gentiles, Nations, Heathens.</hi>
+            </p>
+            <p>Why Nations? Becauſe the Iewes being the onely People and Nation of God, eſteem<g ref="char:EOLhyphen"/>ed (and that rightly) all other People, not on<g ref="char:EOLhyphen"/>ly thoſe that went naked, but the famous BA<g ref="char:EOLhyphen"/>BYLONIANS, CALDEANS, MEDES, and PERSIANS, GREEKES and RO<g ref="char:EOLhyphen"/>MANES, their ſtately Cities and Citizens, inferiour to themſelves, and not partakers of
+<pb n="3" facs="tcp:119549:3"/>their glorious priviledges, but Ethnicke, Gen<g ref="char:EOLhyphen"/>tiles, Heathen, or the Nations of the world.</p>
+            <p>Now then we muſt enquire who are the People of God, his <hi>holy nation,</hi> ſince the com<g ref="char:EOLhyphen"/>ming of the Lord Ieſus, and the rejection of his firſt typicall holy Nation the Iewes.</p>
+            <p>It is confeſt by all, that the CHRISTIANS the followers of Ieſus, are now the onely Peo<g ref="char:EOLhyphen"/>ple of God, his <hi>holy nation,</hi> &amp;c. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 1. <hi>Pet.</hi> 2.9.</p>
+            <p>Who are then the <hi>nations, heathen,</hi> or <hi>gen<g ref="char:EOLhyphen"/>tiles,</hi> in oppoſition to this <hi>People of God?</hi> I anſwer, All People, <hi>ci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ilized</hi> as well as <hi>unci<g ref="char:EOLhyphen"/>vilized,</hi> even the moſt famous States. Cities, and the Kingdomes of the World: For all muſt come within that diſtinction 1. Cor. 5. <hi>within</hi> or <hi>without.</hi>
+            </p>
+            <p>
+               <hi>Within</hi> the <hi>People of God,</hi> his Church at CO<g ref="char:EOLhyphen"/>RINTH: <hi>Without</hi> the City of CORINTH worſhipping <hi>Idols,</hi> and ſo conſequently all o<g ref="char:EOLhyphen"/>ther People HEATHENS, or NATIONS, oppoſed to the People of GOD, the true <hi>Iewes:</hi> And therefore now the naturall <hi>Iewes</hi> them<g ref="char:EOLhyphen"/>ſelves, not being of this People, are <hi>Heathens Nations</hi> or <hi>Gentiles.</hi> Yea, this will by many hands be yeelded, but what ſay you to the <hi>Chriſtian world?</hi> What ſay you to <hi>Chriſt en<g ref="char:EOLhyphen"/>dome?</hi> I anſwer, what do you thinke <hi>Peter</hi>
+               <pb n="4" facs="tcp:119549:4"/>or <hi>Iohn,</hi> or <hi>Paul,</hi> or any of the firſt Meſſen<g ref="char:EOLhyphen"/>gers of the Lord Ieſus; Yea if the Lord Ieſus himſelfe were here, (as he will be ſhortly) and were to make anſwer, what would they, what would he ſay to a CHRI<g ref="char:EOLhyphen"/>STIAN WORLD? TO CHRISTEN<g ref="char:EOLhyphen"/>DOME? And otherwiſe then what He would ſpeak, that is indeed what he hath ſpoken, and wili ſhortly ſpeake, muſt no man ſpeak that names himſelfe a Chriſtian.</p>
+            <p>
+               <hi>Herdious</hi> in his Map of lus CHRISTIAN WORLD takes in all <hi>Aſia, Europe,</hi> a vaſte part of <hi>Africa,</hi> and a great part alſo of <hi>A<g ref="char:EOLhyphen"/>merica,</hi> ſo far as the <hi>Popes Chriſtnings</hi> have reached to.</p>
+            <p>This is the CHRISSION WORLD, or Chriſtendome, in which reſpect men ſtand upon their tearmes of <hi>high oppoſition</hi> between the CHRISTIAN and the TVRKE, (the Chriſtian ſhore, and the Turkiſh ſhore) be<g ref="char:EOLhyphen"/>tweene the CHRISTIANS of this Chri<g ref="char:EOLhyphen"/>ſtian WORLD, and the JEVV, and the CHRISTIAN and the HEATHEN, that is the naked <hi>American.</hi>
+            </p>
+            <p>But ſince <hi>Without</hi> is turned to be <hi>Within,</hi> the WORLD turned CHRISTIAN, and <hi>athe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ttle ſtocke</hi> of JESVS CHRIST hath mſorvelllouſly increaſed in ſuch wonder<g ref="char:EOLhyphen"/>full
+<pb n="5" facs="tcp:119549:4"/>converſions, let me be bold to aske what is Chriſt? What are the Chriſtians? The Hebrew <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and the Greeke <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> will tell us that Chriſt was and in the <hi>Anoin<g ref="char:EOLhyphen"/>ted</hi> of God, whom the Prophets and Kings and preiſts of Iſrael in their <hi>anointings</hi> did preſigure and type out; whence his follow<g ref="char:EOLhyphen"/>ers are called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> chriſtians, that is <hi>A<g ref="char:EOLhyphen"/>nointed</hi> alſo: So that indeed to be a <hi>chriſtian</hi> implyes two things, firſt, to be afollower of that anointed one in all his Offices; ſe<g ref="char:EOLhyphen"/>condly, to pertake of his anointings, for the Anointing of the Lord Jeſus (like to the a<g ref="char:EOLhyphen"/>nointings of AARON, to which none might make the like on pain of death) deſcend to the skirt of his garments.</p>
+            <p>To come nearer to this Chriſtion world, (where the world becomes chriſtian holy, anointed, Gods People &amp;c.) what ſaith <hi>Iohn?</hi> What ſaith the Angel? Yea, What ſaith Ieſus Chriſt and his Father (from whom the Revelation came <hi>Revel</hi> 1.1.?) What ſay they unto the Beaſt and his Worſhippers <hi>Revel.</hi> 13.</p>
+            <p>If that beaſt be not the <hi>Turke,</hi> northe <hi>Roman Emperour</hi> (as the groſeſt interpret<g ref="char:EOLhyphen"/>but either the generall councels, or the ca<g ref="char:EOLhyphen"/>tholike church of <hi>Rome,</hi> or the Popes or Pa<g ref="char:EOLhyphen"/>cy
+<pb n="6" facs="tcp:119549:5"/>(as the moſt refined interpret) why then all the <hi>world, Revel.</hi> 13. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>won<g ref="char:EOLhyphen"/>ders</hi> after the <hi>Beaſt,</hi> worſhips the <hi>Beaſt,</hi> fol<g ref="char:EOLhyphen"/>loweth the <hi>Beaſt,</hi> and boaſts of the <hi>Beaſt,</hi> that there is none like him, and all People, Tongues, and Nations, come underthe pow<g ref="char:EOLhyphen"/>er of this <hi>Beaſt,</hi> &amp; no man ſhall buy nor ſell, nor live, who hath not the marke of the <hi>Beaſt</hi> in his <hi>Fore-head,</hi> or in his hand, or the number of his name.</p>
+            <p>If this <hi>world</hi> or <hi>earth</hi> then be not intend<g ref="char:EOLhyphen"/>ed of the whole terreſtriall Globe, <hi>Europe, Aſia, Africa</hi> and <hi>America,</hi> (which ſence and experience denyes) but of the <hi>Roman earth,</hi> or world, and the People, Languages, and Nations, of the <hi>Roman Monarchy,</hi> transfer<g ref="char:EOLhyphen"/>red from the <hi>Roman</hi> Emperour to the <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Popes, and the Popiſh <hi>Kingdomes,</hi> bran<g ref="char:EOLhyphen"/>ches of that ROMAN-ROOT, (as all <hi>hiſto<g ref="char:EOLhyphen"/>ry</hi> and conſent of time make evident.)</p>
+            <p>Then we know by this time what the Lord Ieſus would ſay of the Chriſtian world and of the <hi>Chriſtian:</hi> Indeed what he ſaith <hi>Revel.</hi> 14. If any man worſhip the <hi>Beaſt</hi> or his <hi>picture,</hi> he ſhall drinke &amp;c. even the dread fulleſt cup that the whole Booke of God e<g ref="char:EOLhyphen"/>ver held forth to ſinners.</p>
+            <p>Grant this, ſay ſome of <hi>Popiſh</hi> Countries,
+<pb n="7" facs="tcp:119549:5"/>that notwithſtanding they make up Chriſ<g ref="char:EOLhyphen"/>tendome, or Chriſtian world, yet ſubmit<g ref="char:EOLhyphen"/>ting to that <hi>Beaſt,</hi> they are the <hi>earth</hi> or <hi>world</hi> and muſt drinke of that moſt dreadfull cup: But now for thoſe nations that have with<g ref="char:EOLhyphen"/>drawn their necks from that <hi>boaſtly yoke,</hi> &amp; proteſting againſt him, are not Papiſts, but Proteſtants, ſhall we, may we thinke of them, that they, or any of them may alſo be called (in true Scripture ſence) <hi>Heathens,</hi> that is Nations or Gentiles, in oppoſition to the People of God, which is the onely holy Nation.</p>
+            <p>I anſwer, that all Nations now called <hi>Pro<g ref="char:EOLhyphen"/>teſtants,</hi> were at firſt part of that whole Earth, or main (ANTICHRISTIAN) Continent, that wondered after, worſhip<g ref="char:EOLhyphen"/>ped the <hi>Beaſt,</hi> &amp;c. This muſt then with holy feare and trembling (becauſe it con<g ref="char:EOLhyphen"/>cernes the KINGDOME of GOD, and ſal<g ref="char:EOLhyphen"/>vation) be attended to, Whether ſuch a de<g ref="char:EOLhyphen"/>parture from the <hi>Beaſt,</hi> and coming out from ANTICHRISTIAN abominations, from his markes in a falſe converſion, and a falſe conſtitution, or framing of NATIONALL CHVRCHES in falſe MINISTERIES, and miniſtrations of BAPTISME, <hi>Supper of the Lord, Admonitions, Excommunications</hi>
+               <pb n="8" facs="tcp:119549:6"/>as amounts to a true perfect Iland, cut off from that Earth which wonderd after and worſhipped the <hi>Beaſt:</hi> or whether, not be<g ref="char:EOLhyphen"/>ing ſo cut off, they remaine not <hi>Peninſulâ</hi> or necks of land, contiguous and joyned ſtill unco his <hi>Chriſtendome?</hi> If now the bodies of Proteſtant Nations remaine in an unre-Pentant, unregenerate, naturall eſtate, and ſo conſequently farre from hearing the ad<g ref="char:EOLhyphen"/>monitions of the Lord Jeſus, Math. 18. I ſay they muſt ſadly conſider and know (leaſt their profeſſion of the name of Jeſus prove at laſt but an aggravation of condemnation) that Chriſt Jeſus hath ſaid, they are but as <hi>Heathens</hi> and <hi>Publcanes,</hi> verſ. 17. How might I therefore humbly beſeech my coun<g ref="char:EOLhyphen"/>ry men to conſider what deepe cauſe they have to ſearch their converſions from that <hi>Beaſt</hi> and his <hi>Pisture?</hi> And whether having no more of Chriſt then the name, (beſide the invented wayes of worſhip, derived from, or drawn after <hi>Romes pattern)</hi> their hearts and converſations will not evince, them uncon<g ref="char:EOLhyphen"/>verted and <hi>unchriſtian Chriſtians,</hi> and not yet, knowing what in is to come by true Regeneration within, to the true ſpirituall Jew from without amongſt the Nations, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat is <hi>Heathens or Gentiles.</hi>
+            </p>
+            <pb n="9" facs="tcp:119549:6"/>
+            <p>How deeply and eternally this concerns each ſoule to ſearch intol yea, and much more deeply ſuch is profeſſe to be Guides, Leaders, and Builders of the HOVSE of GOD.</p>
+            <p>Firſt, as they look to <hi>Formes</hi> and <hi>Frame</hi> of Buildings, or Churches.</p>
+            <p>Secondly, as they attend to <hi>Meanes</hi> and <hi>Inſtruments,</hi> &amp;c.</p>
+            <p>Thirdly, as they would lay ſure Founda<g ref="char:EOLhyphen"/>tions; and laſting Groundſells.</p>
+            <p>Fourthly, as they account the coſt and charge ſuch buildings will amount unto.</p>
+            <p>Fifthly, ſo they may not forget the true ſpirituall matter and mateaials, of which a true Houſe, Citty, Kingdome, or Nation of of God, now in the new Teſtament are to be compoſed or gathered.</p>
+            <p>Now Secondly, for the hopes of CON<g ref="char:EOLhyphen"/>VERSION, and turning the People of <hi>A<g ref="char:EOLhyphen"/>merica</hi> unto God: There is no reſpect of Perſons with him, for we are all the worke of his hands; from the riſing of the Sunne to the going downe thereof, his name ſhall be great among the nations from the Eaſt &amp; and from the Weſt &amp;c. If we reſpect their fins, they are far ſhort of <hi>European</hi> ſinners: They neither abuſe ſuch corporall mercies
+<pb n="10" facs="tcp:119549:7"/>for they have them not; nor ſin they againſt the Goſpell light, (which ſhines not a<g ref="char:EOLhyphen"/>mongſt them) as the men of <hi>Europe</hi> do: And yet if they were greater ſinners then they are, or greater ſinners then the <hi>Euro<g ref="char:EOLhyphen"/>peans,</hi> they are not the further from the great <hi>Ocean</hi> of mercy in that reſpect.</p>
+            <p>Laſtly, they are intelligent, many very ingenuous, plaine-hearted, inquiſitive, and (as I ſaid before) prepared with many con<g ref="char:EOLhyphen"/>victions &amp;c.</p>
+            <p>Now ſecondly, for the Catholicks con<g ref="char:EOLhyphen"/>verſion, although I believe I may ſafely hope that God hath his in Rome, in Spaine, yet if Antichriſt be their falſe head (as moſt true it is) the body, faith, baptiſme, hope (oppoſite to the true, Epheſ. 4.) are all falſe alſo; yea conſequently their preachings, converſions, ſalvations (leaving ſecret things to God) muſt all be of the ſame falſe nature like wiſe.</p>
+            <p>If the reports (yea ſome of their owne <hi>Hiſtorians</hi>) be true, what monſtrous and moſt inhumane converſions have they made; baptizing thouſinds, yea ten thou<g ref="char:EOLhyphen"/>ſands of the poore Natives, ſometimes by wiles and ſubtle devices, ſometimes by force compelling them to ſubmit to that
+<pb n="11" facs="tcp:119549:7"/>which they underſtood not, neither before nor after ſuch their monſtrous Chriſtning of them. Thirdly, for our <hi>New-england</hi> parts, I can ſpeake it uprightly and confidently, I know it to have been eaſie for my ſelfe, long ere this, to have brought many thouſands of theſe Natives, yea the whole country, to a far greater Antichriſtian converſion then ever was yet heard of in <hi>America.</hi> I have reported ſomething in the Chapter of their <hi>Religion,</hi> how readily I could have brought the whole Country to have obſerved one day in ſeven; I adde to have received a <hi>Bap<g ref="char:EOLhyphen"/>tiſme</hi> (or waſhing) though it were in <hi>Rivers</hi> (as the firſt <hi>Chriſtians</hi> and the Lord <hi>Ieſus</hi> himſelfe did) to have come to a <hi>ſtated Church meeting,</hi> maintained prieſts and formes of prayer, and a whole forme of <hi>Antichriſtian</hi> worſhip in life and death. Let none won<g ref="char:EOLhyphen"/>der at this, for <hi>planſible perſwations</hi> in the mouths of thoſe whom naturall men eſteem and love: for the power of prevailing forces and armies hath done this in all the <hi>Nations</hi> (as men ſpeake) of <hi>Chriſtendome.</hi> Yea what lamentable experience have we of the <hi>Tur<g ref="char:EOLhyphen"/>nings</hi> and <hi>Turnings</hi> of the <hi>body</hi> of this Land in point of Religion in few yeares?</p>
+            <p>When <hi>England</hi> was all <hi>Popiſh</hi> under <hi>Henry</hi>
+               <pb n="12" facs="tcp:119549:8"/>the ſeventh, how eaſie is converſion wrought to halfe Papiſt halfe-Proteſtant under <hi>Henry</hi> the eighth?</p>
+            <p>From halfe-Proteſtaniſme halfe-Popery under <hi>Henry</hi> the eight, to abſolute Proteſt<g ref="char:EOLhyphen"/>aniſme under Edward the ſixth: from abſo<g ref="char:EOLhyphen"/>luer Proteſtation under <hi>Edward</hi> the ſixt to abſalute popery under Quegne <hi>Mary,</hi> and from abſolute Popery under Queene <hi>Mary,</hi> (juſt like the Weather-cocke, with the breath of every Prince) to abſolute Pro<g ref="char:EOLhyphen"/>teſtaniſme under Queene <hi>Elizabeth</hi> &amp;c.</p>
+            <p>For all this, yet ſome may aske, why hath there been ſuch a price in my hand not improved? why have I not brought them to ſuch a converſion as I ſpeake of? I anſwer, woe be to me, if I call light dark<g ref="char:EOLhyphen"/>neſſe, or darkneſſe light; ſweet bitter, or bitter ſweer; woe be to me if I call that converſion unto God, which is indeed ſub<g ref="char:EOLhyphen"/>verſion of the ſoules of Millions in <hi>Chriſten<g ref="char:EOLhyphen"/>dome,</hi> from one falſe worſhip to another, and the prophanation of the holy name of God, his holy Son and bleſſed Ordinances <hi>America</hi> (as <hi>Europe</hi> and all nations) lyes dead i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſin and treſpaſſes: It is not a ſuite of crimſon Satten will make a dead man live, take off and change his crimſon into white
+<pb n="13" facs="tcp:119549:8"/>he is dead ſtill, off with that, and ſhift him into cloth of gold, end from that to cloth of diamonds, he is but a dead man ſtill: For it is not a forme, nor the change of one forme into another, a finer, and a ſiner, and yet more fine, that makes a man a convert I meane ſuch a convert as is acceptable to God in Jeſus Chriſt, according to the viſi<g ref="char:EOLhyphen"/>ble Rule of his laſt will and Teſtament. I ſpeake not of Hypocrites, (which may but gliſter, and be no ſolid gold as <hi>Simon Ma<g ref="char:EOLhyphen"/>gus, Judas</hi> &amp;c.) But of a true externall converſion; I ſay then, woe be to me if in<g ref="char:EOLhyphen"/>tending to catch men (as the Lord Jeſus ſaid to <hi>Peter</hi>) I ſhould pretend converſion) and the bringing of men as miſticall fiſh, into a <hi>Church-eſtate,</hi> that is a converted e<g ref="char:EOLhyphen"/>ſtate, and ſo build them up with <hi>Ordinances</hi> as a converted Chriſtian People, and yet af<g ref="char:EOLhyphen"/>terward ſtill pretend to catch them by an after converſion. I queſtion not but that it hath pleaſed God in his infinit pitty and pa<g ref="char:EOLhyphen"/>tience, to ſuffer this among us, yea and to codvert thouſands, whom all men, yea and the perſons (in their perſonall eſtates con<g ref="char:EOLhyphen"/>verted) have eſteemed themſelves good con<g ref="char:EOLhyphen"/>verts before.</p>
+            <p>But I queſtion whether this hath been ſo
+<pb n="41" facs="tcp:119549:9"/>frequent in theſe late yeares, when the times of ignorance (which God pleaſeth to paſſe by) are over, and now a greater light con<g ref="char:EOLhyphen"/>cerning the Church, Miniſtery, and con<g ref="char:EOLhyphen"/>verſion, is ariſen. I queſtion whether if ſuch rare talents, which God hath betruſted ma<g ref="char:EOLhyphen"/>ny of his precious Worthies with, were laid out (as they ſhall be in the Lords moſt holy ſeaſon) according to the firſt pattern; I ſay, I queſtion whether or no, where there hath been one (in his perſonall eſtate converted) there have not been, and I hope in the Lords time ſhall be, thouſands truly con<g ref="char:EOLhyphen"/>verted from <hi>Antichriſtian Idols</hi> (both in <hi>per<g ref="char:EOLhyphen"/>ſon</hi> and <hi>worſhip</hi>) to ſerve the living and true God.</p>
+            <p>And laſtly, it is out of queſtion to me, that I may not pretend a <hi>falſe converſion,</hi> and <hi>falſe ſtate of worſhip,</hi> to the true Lord Ieſus.</p>
+            <p>If any noble <hi>Berean</hi> ſhall make inquiry what is that true converſion I intend; I an<g ref="char:EOLhyphen"/>ſwer firſt negatively.</p>
+            <p>Firſt, it is not a converſion of a People from one falſe worſhip to another, as <hi>Ne<g ref="char:EOLhyphen"/>buchadnezzer</hi> compeld all Nations under his Monarchy.</p>
+            <p>Secondly, it is not to a mixture of the manner or worſhip of the true God, the
+<pb n="15" facs="tcp:119549:9"/>God of Iſrael, with falſe gods &amp; their wor<g ref="char:EOLhyphen"/>ſhips, as the People were converted by the King of <hi>Aſſyria,</hi> 2, <hi>Kin.</hi> 17. in which worſhip for many Generations did theſe <hi>Sa<g ref="char:EOLhyphen"/>maritans</hi> continue, having a forme of many wholſome truths amongſt them, concern<g ref="char:EOLhyphen"/>ing God, and the <hi>Meſſtah,</hi> Ioh. 4.</p>
+            <p>Thirdly, it is not from the true to a falſe, as IEREBOAM turned the ten Tribes to then ruine and diſperſion unto this day, 1. <hi>Kin.</hi> 12.</p>
+            <p>Fourthly, it muſt not be a converſion to ſome externall ſubmiſſion to Gods Ordi<g ref="char:EOLhyphen"/>nances upon earthly reſpects, as IACOBS ſons converted the <hi>Sichemites, Gen.</hi> 34.</p>
+            <p>Fiftly it muſt not be, (it is not poſſible it ſhould be in truth) a converſion of People to the worſhip of the Lord Ieſus, by force of Armes and ſwords of ſteele: So indeed did <hi>Nebuchadnezzer</hi> deale with all the world, <hi>Dan.</hi> 3. ſo doth his <hi>Antitype</hi> and <hi>ſuc<g ref="char:EOLhyphen"/>ceſſor</hi> the <hi>Beaſt</hi> deal with all the earth, <hi>Rev.</hi> 13. &amp;c.</p>
+            <p>But ſo did never the Lord Ieſus bring a<g ref="char:EOLhyphen"/>ny unto his moſt pure worſhip, for he ab<g ref="char:EOLhyphen"/>horres (as all men, yea the very <hi>Indians</hi> doe) an unwilling Spouſe, and to enter into a for<g ref="char:EOLhyphen"/>ced bed: The will in worſhip, if true, is
+<pb n="16" facs="tcp:119549:10"/>like a free Vote, <hi>nec cogit, nec cognitur:</hi> IV<g ref="char:EOLhyphen"/>SVS CHRIST compells by the mighty perſwaſions of his M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſengers to come in, but other wiſe with earthly weapons he ne<g ref="char:EOLhyphen"/>ver did compell nor can be compelled.</p>
+            <p>The not diſcerning of this truth hath let out the bloud of thouſands in civill com<g ref="char:EOLhyphen"/>buſtions in all ages; and made the whore drunke, &amp; the Earth drunk with the bloud of the Sam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and witneſſes of Ieſus.</p>
+            <p>And it is yet like to be the deſtruction &amp; and diſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lution of (that which is called) the Chriſtian world, unleſſe the God of peace and p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke downe upon it, and ſatisfy the ſoules o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> men, that he hath not ſo requi<g ref="char:EOLhyphen"/>red. I ſhould be far yet from unſecuring the peace of a City, of a Land, (which I confeſſe ought to be maintained by civill weapons, &amp; which I have ſo much cauſe to be earneſt with God for;) Nor would I leave a gap o<g ref="char:EOLhyphen"/>pen to any mutinous hand or tongue, nor wiſh a weapon left in the hand of any known to be mutinous and peace-breakers.</p>
+            <p>I know (laſtly) the conſciences of many are otherwiſe perſwaded, both from Iſraels ſtate of old, and other Allegations; yet I ſhall be humbly bold to ſay, I am able to pre<g ref="char:EOLhyphen"/>ſent ſuch conſiderations to the eyes of all
+<pb n="17" facs="tcp:119549:10"/>who love the P<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce of truth and Peace, that ſhall diſcover the weak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of all ſuch al<g ref="char:EOLhyphen"/>lega<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions, and anſwer all objections, that have been, or can be made in this point. So much negatively.</p>
+            <p>Secondly, affirmatively: I anſwer inge<g ref="char:EOLhyphen"/>nera<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, A true Converſion (w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r of <hi>A<g ref="char:EOLhyphen"/>mericans,</hi> or <hi>Europeans</hi>) muſt be ſuch as thoſe Converſions were of the firſt patt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rn, either of the Iewes or the Heathens, That Role is the golden <hi>Mece-wand</hi> in <hi>the</hi> hand of the Angell or M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſenger, <hi>rev.</hi> 11.1. beſide which all other are leaden and crooked</p>
+            <p>In particular: Firſt, it muſt b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by the free proclaiming or preaching of R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>penance &amp; forgiveneſſ of ſins, <hi>Luk.</hi> 24. by ſuch M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſen<g ref="char:EOLhyphen"/>gers <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s can prove their lawfull ſending and Commiſſion from the Lord Ieſus, to make Diſciples o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of all nations: and ſo to b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p<g ref="char:EOLhyphen"/>tize or w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh them <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> into the <hi>name</hi> or <hi>profeſſion</hi> of the oly Trinity, <hi>Mat,</hi> 28.19 Rom. 10.14 15.</p>
+            <p>Secondly, ſuch a converſion (ſo farre as mans Iudgement can reach which is fallible, (as was the judgement of the firſt Meſſen<g ref="char:EOLhyphen"/>gers, as in <hi>Sim<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Magus,</hi> &amp;c.) as is a turn<g ref="char:EOLhyphen"/>ing of the whole man from the power of <hi>Sa<g ref="char:EOLhyphen"/>than</hi> unto God, <hi>act.</hi> 26. Such a change, as if an old man become a new Babe
+<pb n="18" facs="tcp:119549:11"/>
+               <hi>Ioh.</hi> 3. vea, as amounts to Gods new creati<g ref="char:EOLhyphen"/>on in the ſoule, <hi>Epheſ.</hi> 2.10.</p>
+            <p>Thirdly, Viſibly it is a turning from Idols not only of <hi>converſation</hi> but of <hi>worſhip,</hi> (whe<g ref="char:EOLhyphen"/>ther <hi>P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> Turkiſh, Jewiſh, or ANTI<g ref="char:EOLhyphen"/>CHRISTIAN) to the Living and true God in the waies of his holy worſhip, appointed by his Son, 1. <hi>Theſ.</hi> 1.9.</p>
+            <p>I know Objections uſe to be made againſt this, but the <hi>g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Rule,</hi> if well attended to, will diſcover all crooked <hi>ſwervings</hi> and <hi>ab<g ref="char:EOLhyphen"/>errations.</hi>
+            </p>
+            <p>If any now ſay unto me, Why then if this b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nverſion,</hi> and you have ſuch a <hi>Key</hi> of <hi>Language,</hi> and ſuch a dore of <hi>opportunity,</hi> in the knowledge of the Couotry and the inhabitants, why proceed you not to produce in <hi>America</hi> ſome patternes of ſuch converſi<g ref="char:EOLhyphen"/>ons as you ſpeake of?</p>
+            <p>I anſwer, firſt, it muſt be a great deale of practiſe, and mighty paines and hardſhip un<g ref="char:EOLhyphen"/>dergone by my ſelfe, or any that would pro<g ref="char:EOLhyphen"/>ceed to ſuch a further degree of the Lan<g ref="char:EOLhyphen"/>guage, as to be able in propriety of ſpeech to open matters of ſalvation to them.</p>
+            <p>In matters of Earth men will helpe to ſpell out each other, but in matters of Hea<g ref="char:EOLhyphen"/>ven (to which the ſoule is naturally ſo averſe)
+<pb n="19" facs="tcp:119549:11"/>how far are the Eares of men hedged up from liſtening to an improper Language?</p>
+            <p>Secondly my deſires and endeavours are conſtant (by the helpe of God) to attaine a propriety of Language.</p>
+            <p>Thirdly, I confeſſe to the honour of my worthy Countrymen in the <hi>Bay of Maſſa<g ref="char:EOLhyphen"/>chuſet,</hi> and elſewhere, that I received not long ſince expreſſions of their holy deſires and proffers of aſſiſtance in the worke, by the hand of my worthy friend Colonell <hi>Humphreys,</hi> during <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> abode there.</p>
+            <p>Yet fourthly, I anſwer, if a man were as affectionate and zealous as <hi>David</hi> to build an houſe for God, and as wiſe and holy to ad<g ref="char:EOLhyphen"/>viſe and incourage as <hi>Nathan,</hi> attempt this worke with u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a <hi>Word,</hi> a <hi>Warrant</hi> and <hi>Comi<g ref="char:EOLhyphen"/>miſſion,</hi> for <hi>matter,</hi> and <hi>manner,</hi> from GOD himſelfe, they muſt afterwards heare a voice (though accepting good deſires, yet repro<g ref="char:EOLhyphen"/>ving want of Commiſſion) <hi>Did I ever ſpeak a word ſaith the Lord?</hi> &amp;c. 2. <hi>Sam.</hi> 7.7.</p>
+            <p>The truth is, having not been without (through the mercy of God) abundant and conſtant thoughts about a true Commiſſion for ſuch an Embaſſie and Miniſtery. I muſt ingenuouſly confeſſe the reſtleſſe unſatisfied<g ref="char:EOLhyphen"/>neſſe of my ſoule in divers <hi>main partionlars:</hi>
+               <pb n="20" facs="tcp:119549:12"/>As firſt, ☞ whether (ſince the <hi>Law</hi> muſt go forth from <hi>Zion,</hi> and the word of the Lord from <hi>Ieruſalem</hi>) I ſay whether Gods great buſineſſe between Chriſt Ieſus the ho<g ref="char:EOLhyphen"/>ly Son of God and Antichriſt the man of ſin and Sonne of perdition, muſt not be firſt o<g ref="char:EOLhyphen"/>ver, and <hi>Zion</hi> and <hi>Ieruſalem</hi> be re-built and re-eſtabliſhed, before the <hi>Law</hi> and word of life be ſent forth to the reſt of the Nations of the World, who have not heard of Chriſt: The Prophets are deep concerning this.</p>
+            <p>Secondly, ſince there can be no preach<g ref="char:EOLhyphen"/>ing (according to the laſt Will and Teſta<g ref="char:EOLhyphen"/>ment of Chriſt Ieſus) without a true ſending <hi>Rom.</hi> 14.15 ☞ Where the power and au<g ref="char:EOLhyphen"/>thority of <hi>ſending</hi> and <hi>giving</hi> that <hi>Commiſſi<g ref="char:EOLhyphen"/>on Math.</hi> 28. &amp;c. I ſay where that power now lyes?</p>
+            <p>It is here unſeaſonable to number up all that lay claime to this <hi>Power,</hi> with their grounds for their pretences, either thoſe of the <hi>Romiſh</hi> ſort, or thoſe of the <hi>Reforming</hi> or <hi>Re-building</hi> ſort, and the mighty contro<g ref="char:EOLhyphen"/>verſies which are this day in all parts about it: in due place (haply) I may preſent ſuch ſad <hi>Queries</hi> to conſideration, that may occa<g ref="char:EOLhyphen"/>ſion ſome to cry with DANIEL (concer- IERVSALEMS deſolation <hi>Dan.</hi> 9.) <hi>Vnder
+<pb n="21" facs="tcp:119549:12"/>the whole Heaven hath not been done, as hath been done to</hi> IERVSALEM: and with IE<g ref="char:EOLhyphen"/>REMY in the ſame reſpect, Lam. 2.12. <hi>Have you no reſpect all you that paſſe by, behold and ſee if there were ever ſorrow like to my ſorrow, wherewith the Lord hath afflicted me in the day of his fierce wrath.</hi>
+            </p>
+            <p>That may make us aſhamed for all that wee have done, <hi>Ezek.</hi> 43. and loath our ſelves, for that (in whoriſh worſhips) wee have broken him with our whoriſh hearts <hi>Ezek.</hi> 9. To fall dead at the feet of IESVS, <hi>Rev.</hi> 1. as IOHN did, and to weepe much as hee <hi>Rev.</hi> 5. that ſo the LAMB may pleaſe to open unto us that WONDERFVLL BOOK and the ſeven SEALED MYSTERIES thereof.</p>
+            <closer>
+               <signed>Your unworthy Country-man ROGER WILLIAMS.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
